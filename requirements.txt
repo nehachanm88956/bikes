@@ -1,0 +1,15 @@
+streamlit==0.84.2
+mysql-connector-python==8.0.26
+numpy==1.21.0
+pandas==1.3.0
+time==0.1
+plotly==5.1.0
+textblob==0.15.3
+cleantext==1.1.3
+yfinance==0.1.63
+matplotlib==3.4.3
+prophet==1.0.1
+transformers==4.11.3
+scikit-learn==0.24.2
+numerize==0.1.1
+streamlit-option-menu==0.1.1
